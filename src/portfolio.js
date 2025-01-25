@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I Do",
-  subTitle: "DEVOPS ENGINEER WHO LOVES SOLVING COMPLEX PROBLEMS WITH AUTOMATION AND SCALABLE SOLUTIONS",
+  subTitle: "DEVOPS ENGINEER at blah blah WHO LOVES SOLVING COMPLEX PROBLEMS WITH AUTOMATION AND SCALABLE SOLUTIONS",
   skills: [
     emoji(
       "⚡ Build and optimize CI/CD pipelines for seamless integration and delivery"
